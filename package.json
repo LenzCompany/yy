@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^3.0.0",
+    "@hono/swagger-ui": "^3.0.0",
+    "hono": "^3.0.0"
+  }
+}
