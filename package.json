@@ -4,7 +4,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@hono/node-server": "^3.0.0",
+    "@hono/node-server": "latest",
     "@hono/swagger-ui": "^3.0.0",
     "hono": "^3.0.0"
   }
